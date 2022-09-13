@@ -1,2 +1,2 @@
-# Advent_of_code_2020
+# Advent_of_code
 Advent_of_code_2020_edition problems solution
